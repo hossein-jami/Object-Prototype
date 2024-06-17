@@ -1,0 +1,30 @@
+{
+    "articles" : {
+        "status" : true ,
+        "message" : "hello hossin good job keep on " ,
+        "data" : [
+            {
+                "id" :1 ,
+                "imgurl" :"",
+                "title" : "list" ,
+                "readingtime" : 4
+            },
+            {
+                "id" :2 ,
+                "imgurl" :"",
+                "title" : "list" ,
+                "readingtime" : 4
+            },
+            {
+                "id" :3 ,
+                "imgurl" :"",
+                "title" : "list" ,
+                "readingtime" : 2
+            }
+
+        ]
+    }
+    
+    
+    
+}
